@@ -1,0 +1,115 @@
+Date: 17/3/2025
+Time: 14:0
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (192.182.1.5) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 14:1
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (192.182.1.5) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 14:3
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (192.167.6.5) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 14:6
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (10.95.11.11) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 14:8
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (172.19.70.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 14:9
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (10.95.10.159) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 15:5
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (10.95.10.159) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 15:8
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.8.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 15:11
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.8.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 15:14
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.8.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 15:17
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.8.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 15:23
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.8.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 15:23
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.8.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:0
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.84.4) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:1
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.84.4) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:5
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.8.8) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:11
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.4.4) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:11
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (10.95.10.157) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:12
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (10.95.10.157) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:13
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.2.2) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:13
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.2.2) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:14
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.2.2) is DISCONNECTED from the network! 🚨
+--------------------
+Date: 17/3/2025
+Time: 16:14
+Phone Number: +918299002101
+Message: 🚨 ALERT: Desktop (8.8.2.2) is DISCONNECTED from the network! 🚨
+--------------------
